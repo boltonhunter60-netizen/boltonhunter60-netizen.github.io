@@ -1,6 +1,6 @@
 body {
-  background: rgb(0, 119, 255);
-  color: rgb(45, 45, 45);
+  background: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
   padding: 10px;
   font-family: Arial, sans-serif;
 }
@@ -40,12 +40,12 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #cc0707;
 }
 
 /* main container area beneath menu */
 main {
-  background: rgb(221, 231, 230);
+  background: rgb(240, 3, 3);
   display: flex;
   margin-top: 20px;
 }
